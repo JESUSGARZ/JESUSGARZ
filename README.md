@@ -1,6 +1,5 @@
 # Hi there, I'm Jesus 👋
 
-![image](https://cdn.pixabay.com/photo/2016/10/29/09/53/abstract-1780277_960_720.png )
 
 I'm a frontend developer who is intereted in my professional grothw in the thecnology industry, i'll like to learn about many things, but currently i am learning an working with React, javascript and node.
 
