@@ -6,6 +6,8 @@
 I'm a frontend developer I'm working in my professional grothw in the thecnology industry, i'll like to learn about many things, but currently i am learning an working with React, javascript and node.
 
 I'm currently studying to specialize in: **React.js**.
+and this is my last project using React :
+* GetHired (Job Platform) -  https://romantic-jennings-85dd2e.netlify.app/?template_id=62166564770a63723028e361
 
 ## 🚀 Projects: 
 
